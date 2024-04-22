@@ -18,23 +18,15 @@ h2{
     border-radius: 50px;
     text-align: center;
 }
-article h2{
-display: flex;
-justify-items: center;
-
-}
 
 article {
     display: flex;
     flex-direction: row; 
-   align-items: center;
-    
     margin: 10px; 
     border: 1px solid #ccc; 
     border-radius: 20px;
     
   }
-
 img{
   border-radius: 20px;
   width: 350px;
